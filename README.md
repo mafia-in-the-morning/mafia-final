@@ -4,7 +4,7 @@
 마피아팀은 시민을 죽이고, 시민팀은 마피아로부터 서로를 구하는 게임이다.
 ---
 
-
+<img src="video/video1269326162.gif"/>
 
 
 
@@ -82,4 +82,3 @@
 - --깃허브 주소:https://github.com/mafia-in-the-morning/mafia-final.git
 
 
-<img src="video/video1269326162.gif"/>
