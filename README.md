@@ -3,8 +3,7 @@
 ## 0. 게임소개
 마피아팀은 시민을 죽이고, 시민팀은 마피아로부터 서로를 구하는 게임이다.
 ---
-시연영상
-U[ploading KakaoTalk_Video_2023-05-19-03-08-02.mp4…](https://youtu.be/sbW6L1gfrLI)
+
 
 
 
@@ -82,4 +81,5 @@ U[ploading KakaoTalk_Video_2023-05-19-03-08-02.mp4…](https://youtu.be/sbW6L1gf
 
 - --깃허브 주소:https://github.com/mafia-in-the-morning/mafia-final.git
 
-![](C:\video1269326162.gif)
+
+[video](video)
