@@ -82,4 +82,4 @@
 - --깃허브 주소:https://github.com/mafia-in-the-morning/mafia-final.git
 
 
-[video](video)
+<img src="video/video1269326162.gif"/>
