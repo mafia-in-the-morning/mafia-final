@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5980fbe4-85da-469e-9807-ca8bb20f7b24" name="Changes" comment="나머지 부분 최종 커밋-고지혜">
+    <list default="true" id="5980fbe4-85da-469e-9807-ca8bb20f7b24" name="Changes" comment="메인 클래스 수정">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
@@ -14,9 +14,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules/src.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/src.main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/src.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/src/main/java/mafia_42/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/mafia_42/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +103,7 @@
       <workItem from="1684395529004" duration="1450000" />
       <workItem from="1684421048638" duration="1641000" />
       <workItem from="1684424747050" duration="4162000" />
-      <workItem from="1684431658119" duration="300000" />
+      <workItem from="1684431658119" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="인원 수에 따라 마피아 인원 다르게 배정하는 기능">
       <created>1684396401023</created>
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684429614200</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="메인 클래스 수정">
+      <created>1684431998168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684431998168</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +169,7 @@
     <MESSAGE value="마피아는 같은 팀을 죽일 수 없는 기능 추가" />
     <MESSAGE value="플레이어의 수에 따라 마피아의 수가 정해지는 기능" />
     <MESSAGE value="나머지 부분 최종 커밋-고지혜" />
-    <option name="LAST_COMMIT_MESSAGE" value="나머지 부분 최종 커밋-고지혜" />
+    <MESSAGE value="메인 클래스 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="메인 클래스 수정" />
   </component>
 </project>
