@@ -79,3 +79,7 @@ U[ploading KakaoTalk_Video_2023-05-19-03-08-02.mp4…](https://youtu.be/sbW6L1gf
 - 명확히 구분해준다.
 - ##8. 카멜케이스 표기법을 이용한다.
 - ##9. 주석을 통해 발생할 수 있는 모든 상황과 그에 맞는 코드를 설명한다.
+
+- --깃허브 주소:https://github.com/mafia-in-the-morning/mafia-final.git
+
+![](C:\video1269326162.gif)
