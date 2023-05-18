@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Voting {
+
     public HashMap<String, Integer> conductVoting(List<String> players, List<String> deadPlayers) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("=== 투표 시간 ===");
