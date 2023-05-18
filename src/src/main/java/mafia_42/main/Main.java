@@ -27,5 +27,23 @@ public class Main {
         ArrayList<String> deadPlayers = new ArrayList<>();
         ArrayList<String> citizenTeam = new ArrayList<>();
         ArrayList<String> mafiaTeam = new ArrayList<>();
+
+        // 최다 득표수를 얻은 참가자가 있을 경우 해당 참가자 제거 후 결과 출력
+        if (!maxVotePlayer.equals("무효")) {
+            System.out.println("\n" + maxVotePlayer + "님이 최다 득표수(" + maxVoteCount + "표)를 얻어 처형됩니다.");
+            players.remove(maxVotePlayer);
+            //마피아팀인 경우 마피아 리스트에서 삭제, 시민인 경우 시민 리스트에서 삭제
+            if (mafiaTeam.contains(maxVotePlayer)) {
+                mafiaTeam.remove(maxVotePlayer);
+            } else {
+                citizenTeam.remove(maxVotePlayer);
+            }
+            deadPlayers.add(maxVotePlayer);
+            game.compareNumOfMafiaAndCitizen(mafiaTeam, citizenTeam);
+        }else { // 무효 표시가 된 경우 결과 출력
+            System.out.println("\n투표가 무효 처리되었습니다. 동점이거나 모든 참가자가 투표를 거부했습니다.");
+        }
+    }
+}
     }
 }
